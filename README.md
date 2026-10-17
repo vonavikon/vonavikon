@@ -6,7 +6,7 @@ I am IT Enthusiast. I am seeking knowledge and wisdom to bring the world closer 
 
 Currently working as a Product Manager. Around 6 years in IT, the last 3 building and shipping AI-powered products. I think in business and product metrics: unit economics, A/B testing, ROI. Data-driven end to end from CustDev and hypothesis prioritization to measured outcomes. Work with Claude Code, MCP, AI pipelines. English C1, international education (South Korea), open to business trips.
 
-I don't limit myself to a purely managerial role. I actively develop technical skills — and ship pet projects to prove it.
+I don't limit myself to a purely managerial role. I actively develop technical skills and ship pet projects to prove it.
 
 ## Pet projects
 
