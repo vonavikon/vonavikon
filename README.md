@@ -1,8 +1,8 @@
-# Hi, I'm Constanta
+# Hi, I'm Konstantin 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theconstanta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theconstanta/)
 
-Product Manager, 6 years in IT, the last 3 building and shipping AI-powered products. I think in business and product metrics: unit economics, A/B testing, ROI. Data-driven end to end — from CustDev and hypothesis prioritization to measured outcomes. Work with Claude Code, MCP, AI pipelines. English C1, international education (South Korea), open to business trips.
+I am IT Enthusiast. Currently working as a Product Manager. Around 6 years in IT, the last 3 building and shipping AI-powered products. I think in business and product metrics: unit economics, A/B testing, ROI. Data-driven end to end — from CustDev and hypothesis prioritization to measured outcomes. Work with Claude Code, MCP, AI pipelines. English C1, international education (South Korea), open to business trips.
 
 I don't limit myself to a purely managerial role. I actively develop technical skills — and ship pet projects to prove it.
 
