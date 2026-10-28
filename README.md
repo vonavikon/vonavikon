@@ -1,6 +1,7 @@
 # Hi, I'm Konstantin 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theconstanta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theconstanta/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F75_clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/a2192f26838c078d39f9b6be269f049e8ab48248cb9fa266945cb24df549b9a3)
 
 I am IT Enthusiast. I am seeking knowledge and wisdom to bring the world closer to the Noon of the 22nd century.
 
