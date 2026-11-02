@@ -11,8 +11,9 @@ I don't limit myself to a purely managerial role. I actively develop technical s
 
 ## Pet projects
 
-- **[qa-agent-evals](https://github.com/vonavikon/qa-agent-evals)** — acceptance testing for LLM systems via role subagents (Claude Code plugin). An analyst profiles the target system, human-approved scenario cards are played by executor agents in an isolated environment, a deterministic layer proves facts before a judge model issues verdicts. Bilingual docs, every run's artifacts published. *(Python)*
-- **[flibusta-mcp](https://github.com/vonavikon/flibusta-mcp)** — MCP server for searching and downloading books from any MCP client: Claude Code, Claude Desktop, Cursor. *(TypeScript)*
-- **[youtube2text](https://github.com/vonavikon/youtube2text)** — Claude Code skill: turns a YouTube video into a clean transcript and a structured conspectus. *(Python)*
-- **[conspect](https://github.com/vonavikon/conspect)** — browser extension that builds a video conspect right on the YouTube page. *(TypeScript)*
-- **[quote-search-bot](https://github.com/vonavikon/quote-search-bot)** — semantic search over a Telegram channel: vector index, PD-art cards, Wikipedia summaries. *(Python)*
+- **[video-factcheck](https://github.com/vonavikon/video-factcheck)** · fact-checks YouTube videos while you watch: extracts checkable claims from subtitles, then verifies each via human fact-checks (ClaimReview), a double web-search pass, and biomedical literature (Europe PMC, OpenAlex). The science layer is deliberately cautious: a paper can only downgrade a verdict to "unclear" with a verbatim quote, never declare it false. RU/EN interface, self-hosted backend. *(Chrome MV3, Python)*
+- **[qa-agent-evals](https://github.com/vonavikon/qa-agent-evals)** · acceptance testing for LLM systems via role subagents (Claude Code plugin). An analyst profiles the target system, human-approved scenario cards are played by executor agents in an isolated environment, a deterministic layer proves facts before a judge model issues verdicts. Bilingual docs, every run's artifacts published. *(Python)*
+- **[flibusta-mcp](https://github.com/vonavikon/flibusta-mcp)** · MCP server for searching and downloading books from any MCP client: Claude Code, Claude Desktop, Cursor. *(TypeScript)*
+- **[youtube2text](https://github.com/vonavikon/youtube2text)** · Claude Code skill: turns a YouTube video into a clean transcript and a structured conspectus. *(Python)*
+- **[conspect](https://github.com/vonavikon/conspect)** · browser extension that builds a video conspect right on the YouTube page. *(TypeScript)*
+- **[quote-search-bot](https://github.com/vonavikon/quote-search-bot)** · semantic search over a Telegram channel: vector index, PD-art cards, Wikipedia summaries. *(Python)*
